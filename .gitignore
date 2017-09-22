@@ -1,0 +1,5 @@
+/bazel-bin
+/bazel-genfiles
+/bazel-my-app
+/bazel-out
+/bazel-testlogs
